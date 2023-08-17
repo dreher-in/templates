@@ -2,6 +2,7 @@
 ## QUESTIONS ##
 *************
 
+# Ask yourself these questions for the application
 1. What stack/languages are used?
 2. What server is running the application?
 3. Is there a WAF?
